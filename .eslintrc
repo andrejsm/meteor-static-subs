@@ -1,0 +1,28 @@
+rules:
+  indent:
+    - 2
+    - tab
+  quotes:
+    - 2
+    - single
+  linebreak-style:
+    - 2
+    - unix
+  semi:
+    - 2
+    - never
+  comma-dangle:
+    - 2
+    - 'always-multiline'
+  no-undef:
+    - 0
+  no-console:
+    - 0
+
+env:
+  es6: true
+  meteor: true
+  node: true
+  browser: true
+
+extends: 'eslint:recommended'
