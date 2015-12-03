@@ -2,7 +2,7 @@ Package.describe({
 	name: 'ouk:static-subs',
 	version: '1.0.0',
 	summary: 'Static subscriptions',
-	git: 'https://github.com/andrejsm/meteor-event-bus',
+	git: 'https://github.com/andrejsm/meteor-static-subs',
 	documentation: 'README.md',
 })
 
